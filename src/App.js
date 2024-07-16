@@ -1,11 +1,12 @@
 import ServicePage from './Components/servicePage';
 
-
+import  ProfilePage from './Components/ProfilePage'
 
 function App() {
   return (
     <div className="App">
-        <ServicePage/>
+    
+        <ProfilePage/>
     </div>
   );
 }
