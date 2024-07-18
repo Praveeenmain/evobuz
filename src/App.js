@@ -1,12 +1,12 @@
-import ServicePage from './Components/servicePage';
 
-import  ProfilePage from './Components/ProfilePage'
+import Contact from './Components/Contact'
+
 
 function App() {
   return (
     <div className="App">
     
-        <ProfilePage/>
+      <Contact/>
     </div>
   );
 }
